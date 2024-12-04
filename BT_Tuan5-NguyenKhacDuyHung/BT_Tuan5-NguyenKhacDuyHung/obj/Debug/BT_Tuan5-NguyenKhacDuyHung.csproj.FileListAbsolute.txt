@@ -1,0 +1,8 @@
+F:\LTHDT\BT_Tuan5-NguyenKhacDuyHung\BT_Tuan5-NguyenKhacDuyHung\bin\Debug\BT_Tuan5-NguyenKhacDuyHung.exe.config
+F:\LTHDT\BT_Tuan5-NguyenKhacDuyHung\BT_Tuan5-NguyenKhacDuyHung\bin\Debug\BT_Tuan5-NguyenKhacDuyHung.exe
+F:\LTHDT\BT_Tuan5-NguyenKhacDuyHung\BT_Tuan5-NguyenKhacDuyHung\bin\Debug\BT_Tuan5-NguyenKhacDuyHung.pdb
+F:\LTHDT\BT_Tuan5-NguyenKhacDuyHung\BT_Tuan5-NguyenKhacDuyHung\obj\Debug\BT_Tuan5-NguyenKhacDuyHung.csproj.AssemblyReference.cache
+F:\LTHDT\BT_Tuan5-NguyenKhacDuyHung\BT_Tuan5-NguyenKhacDuyHung\obj\Debug\BT_Tuan5-NguyenKhacDuyHung.csproj.SuggestedBindingRedirects.cache
+F:\LTHDT\BT_Tuan5-NguyenKhacDuyHung\BT_Tuan5-NguyenKhacDuyHung\obj\Debug\BT_Tuan5-NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
+F:\LTHDT\BT_Tuan5-NguyenKhacDuyHung\BT_Tuan5-NguyenKhacDuyHung\obj\Debug\BT_Tuan5-NguyenKhacDuyHung.exe
+F:\LTHDT\BT_Tuan5-NguyenKhacDuyHung\BT_Tuan5-NguyenKhacDuyHung\obj\Debug\BT_Tuan5-NguyenKhacDuyHung.pdb

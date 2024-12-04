@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOP\\Lab4_NguyenKhacDuyHung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EECC60E3-6191-48EF-BD9E-4A4B3270C132}|Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung.csproj|e:\\oop\\lab4_nguyenkhacduyhung\\lab4_nguyenkhacduyhung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECC60E3-6191-48EF-BD9E-4A4B3270C132}|Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung.csproj|solutionrelative:lab4_nguyenkhacduyhung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECC60E3-6191-48EF-BD9E-4A4B3270C132}|Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung.csproj|E:\\OOP\\Lab4_NguyenKhacDuyHung\\lab4_nguyenkhacduyhung\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECC60E3-6191-48EF-BD9E-4A4B3270C132}|Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung.csproj|solutionrelative:lab4_nguyenkhacduyhung\\maytinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EECC60E3-6191-48EF-BD9E-4A4B3270C132}|Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung.csproj|E:\\OOP\\Lab4_NguyenKhacDuyHung\\lab4_nguyenkhacduyhung\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EECC60E3-6191-48EF-BD9E-4A4B3270C132}|Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung.csproj|solutionrelative:lab4_nguyenkhacduyhung\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OOP\\Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4_NguyenKhacDuyHung\\Program.cs",
+              "ToolTip": "E:\\OOP\\Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung\\Program.cs",
+              "RelativeToolTip": "Lab4_NguyenKhacDuyHung\\Program.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAkwLkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T13:11:40.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maytinh.cs",
+              "DocumentMoniker": "E:\\OOP\\Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung\\Maytinh.cs",
+              "RelativeDocumentMoniker": "Lab4_NguyenKhacDuyHung\\Maytinh.cs",
+              "ToolTip": "E:\\OOP\\Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung\\Maytinh.cs",
+              "RelativeToolTip": "Lab4_NguyenKhacDuyHung\\Maytinh.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAA8wA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T12:51:27.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "E:\\OOP\\Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung\\Shape.cs",
+              "RelativeDocumentMoniker": "Lab4_NguyenKhacDuyHung\\Shape.cs",
+              "ToolTip": "E:\\OOP\\Lab4_NguyenKhacDuyHung\\Lab4_NguyenKhacDuyHung\\Shape.cs",
+              "RelativeToolTip": "Lab4_NguyenKhacDuyHung\\Shape.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAswDgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-06T12:04:17.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

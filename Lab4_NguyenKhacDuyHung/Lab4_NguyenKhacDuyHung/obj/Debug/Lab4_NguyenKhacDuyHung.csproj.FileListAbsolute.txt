@@ -1,0 +1,16 @@
+C:\Users\bocut\OneDrive\Máy tính\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\bin\Debug\Lab4_NguyenKhacDuyHung.exe.config
+C:\Users\bocut\OneDrive\Máy tính\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\bin\Debug\Lab4_NguyenKhacDuyHung.exe
+C:\Users\bocut\OneDrive\Máy tính\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\bin\Debug\Lab4_NguyenKhacDuyHung.pdb
+C:\Users\bocut\OneDrive\Máy tính\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\obj\Debug\Lab4_NguyenKhacDuyHung.csproj.AssemblyReference.cache
+C:\Users\bocut\OneDrive\Máy tính\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\obj\Debug\Lab4_NguyenKhacDuyHung.csproj.SuggestedBindingRedirects.cache
+C:\Users\bocut\OneDrive\Máy tính\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\obj\Debug\Lab4_NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
+C:\Users\bocut\OneDrive\Máy tính\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\obj\Debug\Lab4_NguyenKhacDuyHung.exe
+C:\Users\bocut\OneDrive\Máy tính\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\obj\Debug\Lab4_NguyenKhacDuyHung.pdb
+F:\LTHDT\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\obj\Debug\Lab4_NguyenKhacDuyHung.csproj.AssemblyReference.cache
+F:\LTHDT\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\obj\Debug\Lab4_NguyenKhacDuyHung.csproj.SuggestedBindingRedirects.cache
+F:\LTHDT\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\obj\Debug\Lab4_NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
+F:\LTHDT\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\obj\Debug\Lab4_NguyenKhacDuyHung.exe
+F:\LTHDT\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\obj\Debug\Lab4_NguyenKhacDuyHung.pdb
+F:\LTHDT\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\bin\Debug\Lab4_NguyenKhacDuyHung.exe.config
+F:\LTHDT\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\bin\Debug\Lab4_NguyenKhacDuyHung.exe
+F:\LTHDT\Lab4_NguyenKhacDuyHung\Lab4_NguyenKhacDuyHung\bin\Debug\Lab4_NguyenKhacDuyHung.pdb

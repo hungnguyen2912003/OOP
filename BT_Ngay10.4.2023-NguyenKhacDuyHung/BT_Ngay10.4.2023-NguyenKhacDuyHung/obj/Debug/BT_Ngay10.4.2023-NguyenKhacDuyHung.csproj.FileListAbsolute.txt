@@ -1,0 +1,8 @@
+D:\BT_Ngay10.4.2023-NguyenKhacDuyHung\BT_Ngay10.4.2023-NguyenKhacDuyHung\bin\Debug\BT_Ngay10.4.2023-NguyenKhacDuyHung.exe.config
+D:\BT_Ngay10.4.2023-NguyenKhacDuyHung\BT_Ngay10.4.2023-NguyenKhacDuyHung\bin\Debug\BT_Ngay10.4.2023-NguyenKhacDuyHung.exe
+D:\BT_Ngay10.4.2023-NguyenKhacDuyHung\BT_Ngay10.4.2023-NguyenKhacDuyHung\bin\Debug\BT_Ngay10.4.2023-NguyenKhacDuyHung.pdb
+D:\BT_Ngay10.4.2023-NguyenKhacDuyHung\BT_Ngay10.4.2023-NguyenKhacDuyHung\obj\Debug\BT_Ngay10.4.2023-NguyenKhacDuyHung.csproj.AssemblyReference.cache
+D:\BT_Ngay10.4.2023-NguyenKhacDuyHung\BT_Ngay10.4.2023-NguyenKhacDuyHung\obj\Debug\BT_Ngay10.4.2023-NguyenKhacDuyHung.csproj.SuggestedBindingRedirects.cache
+D:\BT_Ngay10.4.2023-NguyenKhacDuyHung\BT_Ngay10.4.2023-NguyenKhacDuyHung\obj\Debug\BT_Ngay10.4.2023-NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
+D:\BT_Ngay10.4.2023-NguyenKhacDuyHung\BT_Ngay10.4.2023-NguyenKhacDuyHung\obj\Debug\BT_Ngay10.4.2023-NguyenKhacDuyHung.exe
+D:\BT_Ngay10.4.2023-NguyenKhacDuyHung\BT_Ngay10.4.2023-NguyenKhacDuyHung\obj\Debug\BT_Ngay10.4.2023-NguyenKhacDuyHung.pdb

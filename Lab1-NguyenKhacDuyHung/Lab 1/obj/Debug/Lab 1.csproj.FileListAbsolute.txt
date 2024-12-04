@@ -1,0 +1,16 @@
+F:\LTHDT\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.AssemblyReference.cache
+F:\LTHDT\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.SuggestedBindingRedirects.cache
+F:\LTHDT\Lab 1\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+F:\LTHDT\Lab 1\Lab 1\bin\Debug\Lab 1.exe.config
+F:\LTHDT\Lab 1\Lab 1\bin\Debug\Lab 1.exe
+F:\LTHDT\Lab 1\Lab 1\bin\Debug\Lab 1.pdb
+F:\LTHDT\Lab 1\Lab 1\obj\Debug\Lab 1.exe
+F:\LTHDT\Lab 1\Lab 1\obj\Debug\Lab 1.pdb
+F:\LTHDT\Lab1-NguyenKhacDuyHung\Lab 1\bin\Debug\Lab 1.exe.config
+F:\LTHDT\Lab1-NguyenKhacDuyHung\Lab 1\bin\Debug\Lab 1.exe
+F:\LTHDT\Lab1-NguyenKhacDuyHung\Lab 1\bin\Debug\Lab 1.pdb
+F:\LTHDT\Lab1-NguyenKhacDuyHung\Lab 1\obj\Debug\Lab 1.csproj.AssemblyReference.cache
+F:\LTHDT\Lab1-NguyenKhacDuyHung\Lab 1\obj\Debug\Lab 1.csproj.SuggestedBindingRedirects.cache
+F:\LTHDT\Lab1-NguyenKhacDuyHung\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+F:\LTHDT\Lab1-NguyenKhacDuyHung\Lab 1\obj\Debug\Lab 1.exe
+F:\LTHDT\Lab1-NguyenKhacDuyHung\Lab 1\obj\Debug\Lab 1.pdb

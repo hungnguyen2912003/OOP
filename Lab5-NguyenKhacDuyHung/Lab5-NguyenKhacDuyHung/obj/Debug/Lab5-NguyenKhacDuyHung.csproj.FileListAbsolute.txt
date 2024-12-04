@@ -1,0 +1,16 @@
+F:\LTHDT\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\bin\Debug\Lab5-NguyenKhacDuyHung.exe.config
+F:\LTHDT\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\bin\Debug\Lab5-NguyenKhacDuyHung.exe
+F:\LTHDT\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\bin\Debug\Lab5-NguyenKhacDuyHung.pdb
+F:\LTHDT\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\obj\Debug\Lab5-NguyenKhacDuyHung.csproj.AssemblyReference.cache
+F:\LTHDT\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\obj\Debug\Lab5-NguyenKhacDuyHung.csproj.SuggestedBindingRedirects.cache
+F:\LTHDT\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\obj\Debug\Lab5-NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
+F:\LTHDT\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\obj\Debug\Lab5-NguyenKhacDuyHung.exe
+F:\LTHDT\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\obj\Debug\Lab5-NguyenKhacDuyHung.pdb
+E:\OOP\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\bin\Debug\Lab5-NguyenKhacDuyHung.exe.config
+E:\OOP\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\bin\Debug\Lab5-NguyenKhacDuyHung.exe
+E:\OOP\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\bin\Debug\Lab5-NguyenKhacDuyHung.pdb
+E:\OOP\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\obj\Debug\Lab5-NguyenKhacDuyHung.csproj.AssemblyReference.cache
+E:\OOP\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\obj\Debug\Lab5-NguyenKhacDuyHung.csproj.SuggestedBindingRedirects.cache
+E:\OOP\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\obj\Debug\Lab5-NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
+E:\OOP\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\obj\Debug\Lab5-NguyenKhacDuyHung.exe
+E:\OOP\Lab5-NguyenKhacDuyHung\Lab5-NguyenKhacDuyHung\obj\Debug\Lab5-NguyenKhacDuyHung.pdb

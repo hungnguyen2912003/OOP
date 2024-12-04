@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOP\\Lab2_NguyenKhacDuyHung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFD24D3D-5B91-4DBB-A93A-F9586B5A60BC}|Lab2_NguyenKhacDuyHung\\Lab2_NguyenKhacDuyHung.csproj|E:\\OOP\\Lab2_NguyenKhacDuyHung\\lab2_nguyenkhacduyhung\\adult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFD24D3D-5B91-4DBB-A93A-F9586B5A60BC}|Lab2_NguyenKhacDuyHung\\Lab2_NguyenKhacDuyHung.csproj|solutionrelative:lab2_nguyenkhacduyhung\\adult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adult.cs",
+              "DocumentMoniker": "E:\\OOP\\Lab2_NguyenKhacDuyHung\\Lab2_NguyenKhacDuyHung\\Adult.cs",
+              "RelativeDocumentMoniker": "Lab2_NguyenKhacDuyHung\\Adult.cs",
+              "ToolTip": "E:\\OOP\\Lab2_NguyenKhacDuyHung\\Lab2_NguyenKhacDuyHung\\Adult.cs",
+              "RelativeToolTip": "Lab2_NguyenKhacDuyHung\\Adult.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwD8AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-06-05T10:37:06.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

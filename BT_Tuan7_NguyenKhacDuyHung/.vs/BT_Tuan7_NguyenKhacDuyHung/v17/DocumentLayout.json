@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C60C953-3300-4966-AEE7-715B7513B99F}|BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung.csproj|e:\\oop\\bt_tuan7_nguyenkhacduyhung\\bt_tuan7_nguyenkhacduyhung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C60C953-3300-4966-AEE7-715B7513B99F}|BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung.csproj|solutionrelative:bt_tuan7_nguyenkhacduyhung\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C60C953-3300-4966-AEE7-715B7513B99F}|BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung.csproj|E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\bt_tuan7_nguyenkhacduyhung\\canbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C60C953-3300-4966-AEE7-715B7513B99F}|BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung.csproj|solutionrelative:bt_tuan7_nguyenkhacduyhung\\canbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C60C953-3300-4966-AEE7-715B7513B99F}|BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung.csproj|E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\bt_tuan7_nguyenkhacduyhung\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C60C953-3300-4966-AEE7-715B7513B99F}|BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung.csproj|solutionrelative:bt_tuan7_nguyenkhacduyhung\\giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C60C953-3300-4966-AEE7-715B7513B99F}|BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung.csproj|E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\bt_tuan7_nguyenkhacduyhung\\nhanvienhanhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C60C953-3300-4966-AEE7-715B7513B99F}|BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung.csproj|solutionrelative:bt_tuan7_nguyenkhacduyhung\\nhanvienhanhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung\\Program.cs",
+              "RelativeDocumentMoniker": "BT_Tuan7_NguyenKhacDuyHung\\Program.cs",
+              "ToolTip": "E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung\\Program.cs",
+              "RelativeToolTip": "BT_Tuan7_NguyenKhacDuyHung\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:46:46.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GiaoVien.cs",
+              "DocumentMoniker": "E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung\\GiaoVien.cs",
+              "RelativeDocumentMoniker": "BT_Tuan7_NguyenKhacDuyHung\\GiaoVien.cs",
+              "ToolTip": "E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung\\GiaoVien.cs",
+              "RelativeToolTip": "BT_Tuan7_NguyenKhacDuyHung\\GiaoVien.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvxIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:46:46.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienHanhChinh.cs",
+              "DocumentMoniker": "E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung\\NhanVienHanhChinh.cs",
+              "RelativeDocumentMoniker": "BT_Tuan7_NguyenKhacDuyHung\\NhanVienHanhChinh.cs",
+              "ToolTip": "E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung\\NhanVienHanhChinh.cs",
+              "RelativeToolTip": "BT_Tuan7_NguyenKhacDuyHung\\NhanVienHanhChinh.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:46:46.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CanBo.cs",
+              "DocumentMoniker": "E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung\\CanBo.cs",
+              "RelativeDocumentMoniker": "BT_Tuan7_NguyenKhacDuyHung\\CanBo.cs",
+              "ToolTip": "E:\\OOP\\BT_Tuan7_NguyenKhacDuyHung\\BT_Tuan7_NguyenKhacDuyHung\\CanBo.cs",
+              "RelativeToolTip": "BT_Tuan7_NguyenKhacDuyHung\\CanBo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T14:46:46.417Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

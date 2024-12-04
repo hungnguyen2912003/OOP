@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\bin\Debug\NguyenKhacDuyHung-63132095.exe.config
+C:\Users\Admin\Desktop\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\bin\Debug\NguyenKhacDuyHung-63132095.exe
+C:\Users\Admin\Desktop\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\bin\Debug\NguyenKhacDuyHung-63132095.pdb
+C:\Users\Admin\Desktop\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\obj\Debug\NguyenKhacDuyHung-63132095.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\obj\Debug\NguyenKhacDuyHung-63132095.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\obj\Debug\NguyenKhacDuyHung-63132095.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\obj\Debug\NguyenKhacDuyHung-63132095.exe
+C:\Users\Admin\Desktop\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\obj\Debug\NguyenKhacDuyHung-63132095.pdb
+E:\OOP\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\bin\Debug\NguyenKhacDuyHung-63132095.exe.config
+E:\OOP\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\bin\Debug\NguyenKhacDuyHung-63132095.exe
+E:\OOP\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\bin\Debug\NguyenKhacDuyHung-63132095.pdb
+E:\OOP\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\obj\Debug\NguyenKhacDuyHung-63132095.csproj.AssemblyReference.cache
+E:\OOP\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\obj\Debug\NguyenKhacDuyHung-63132095.csproj.SuggestedBindingRedirects.cache
+E:\OOP\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\obj\Debug\NguyenKhacDuyHung-63132095.csproj.CoreCompileInputs.cache
+E:\OOP\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\obj\Debug\NguyenKhacDuyHung-63132095.exe
+E:\OOP\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\NguyenKhacDuyHung-63132095\obj\Debug\NguyenKhacDuyHung-63132095.pdb

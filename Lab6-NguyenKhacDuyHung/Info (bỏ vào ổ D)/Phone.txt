@@ -1,0 +1,5 @@
+IP001;Iphone;35000;D:\\Info\\Images\\iphone1.png
+IP002;Iphone;42600;D:\\Info\\Images\\iphone2.png
+IP003;Iphone;24500;D:\\Info\\Images\\iphone3.png
+SS001;Samsung;18750;D:\\Info\\Images\\samsung.png
+SS002;Samsung;26850;D:\\Info\\Images\\samsung2.png

@@ -1,0 +1,8 @@
+F:\LTHDT\Lab3-NguyenKhacDuyHung\Lab3-NguyenKhacDuyHung\bin\Debug\Lab3-NguyenKhacDuyHung.exe.config
+F:\LTHDT\Lab3-NguyenKhacDuyHung\Lab3-NguyenKhacDuyHung\bin\Debug\Lab3-NguyenKhacDuyHung.exe
+F:\LTHDT\Lab3-NguyenKhacDuyHung\Lab3-NguyenKhacDuyHung\bin\Debug\Lab3-NguyenKhacDuyHung.pdb
+F:\LTHDT\Lab3-NguyenKhacDuyHung\Lab3-NguyenKhacDuyHung\obj\Debug\Lab3-NguyenKhacDuyHung.csproj.AssemblyReference.cache
+F:\LTHDT\Lab3-NguyenKhacDuyHung\Lab3-NguyenKhacDuyHung\obj\Debug\Lab3-NguyenKhacDuyHung.csproj.SuggestedBindingRedirects.cache
+F:\LTHDT\Lab3-NguyenKhacDuyHung\Lab3-NguyenKhacDuyHung\obj\Debug\Lab3-NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
+F:\LTHDT\Lab3-NguyenKhacDuyHung\Lab3-NguyenKhacDuyHung\obj\Debug\Lab3-NguyenKhacDuyHung.exe
+F:\LTHDT\Lab3-NguyenKhacDuyHung\Lab3-NguyenKhacDuyHung\obj\Debug\Lab3-NguyenKhacDuyHung.pdb

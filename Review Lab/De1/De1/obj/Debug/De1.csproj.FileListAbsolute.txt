@@ -1,0 +1,8 @@
+E:\OOP\Review Lab\De1\De1\bin\Debug\De1.exe.config
+E:\OOP\Review Lab\De1\De1\bin\Debug\De1.exe
+E:\OOP\Review Lab\De1\De1\bin\Debug\De1.pdb
+E:\OOP\Review Lab\De1\De1\obj\Debug\De1.csproj.AssemblyReference.cache
+E:\OOP\Review Lab\De1\De1\obj\Debug\De1.csproj.SuggestedBindingRedirects.cache
+E:\OOP\Review Lab\De1\De1\obj\Debug\De1.csproj.CoreCompileInputs.cache
+E:\OOP\Review Lab\De1\De1\obj\Debug\De1.exe
+E:\OOP\Review Lab\De1\De1\obj\Debug\De1.pdb
