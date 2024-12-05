@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\OOP\\Lab6-NguyenKhacDuyHung\\",
+  "WorkspaceRootPath": "F:\\OOP\\Lab6-NguyenKhacDuyHung\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9079C2CF-7406-43FA-B3DF-7408D84B9B16}|Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung.csproj|e:\\oop\\lab6-nguyenkhacduyhung\\lab6-nguyenkhacduyhung\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9079C2CF-7406-43FA-B3DF-7408D84B9B16}|Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung.csproj|f:\\oop\\lab6-nguyenkhacduyhung\\lab6-nguyenkhacduyhung\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9079C2CF-7406-43FA-B3DF-7408D84B9B16}|Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung.csproj|solutionrelative:lab6-nguyenkhacduyhung\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9079C2CF-7406-43FA-B3DF-7408D84B9B16}|Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung.csproj|E:\\OOP\\Lab6-NguyenKhacDuyHung\\lab6-nguyenkhacduyhung\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9079C2CF-7406-43FA-B3DF-7408D84B9B16}|Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung.csproj|F:\\OOP\\Lab6-NguyenKhacDuyHung\\lab6-nguyenkhacduyhung\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9079C2CF-7406-43FA-B3DF-7408D84B9B16}|Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung.csproj|solutionrelative:lab6-nguyenkhacduyhung\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\OOP\\Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung\\Form1.cs",
+              "DocumentMoniker": "F:\\OOP\\Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung\\Form1.cs",
               "RelativeDocumentMoniker": "Lab6-NguyenKhacDuyHung\\Form1.cs",
-              "ToolTip": "E:\\OOP\\Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung\\Form1.cs [Design]",
+              "ToolTip": "F:\\OOP\\Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung\\Form1.cs [Design]",
               "RelativeToolTip": "Lab6-NguyenKhacDuyHung\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-26T11:33:03.898Z",
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Phone.cs",
-              "DocumentMoniker": "E:\\OOP\\Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung\\Phone.cs",
+              "DocumentMoniker": "F:\\OOP\\Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung\\Phone.cs",
               "RelativeDocumentMoniker": "Lab6-NguyenKhacDuyHung\\Phone.cs",
-              "ToolTip": "E:\\OOP\\Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung\\Phone.cs",
+              "ToolTip": "F:\\OOP\\Lab6-NguyenKhacDuyHung\\Lab6-NguyenKhacDuyHung\\Phone.cs",
               "RelativeToolTip": "Lab6-NguyenKhacDuyHung\\Phone.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

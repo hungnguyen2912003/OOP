@@ -27,3 +27,17 @@ E:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDu
 E:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
 E:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.exe
 E:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.pdb
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\bin\Debug\Lab6-NguyenKhacDuyHung.exe.config
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\bin\Debug\Lab6-NguyenKhacDuyHung.exe
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\bin\Debug\Lab6-NguyenKhacDuyHung.pdb
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.csproj.AssemblyReference.cache
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6_NguyenKhacDuyHung.Form1.resources
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6_NguyenKhacDuyHung.Form2.resources
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6_NguyenKhacDuyHung.Form3.resources
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6_NguyenKhacDuyHung.Form4.resources
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6_NguyenKhacDuyHung.Form5.resources
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6_NguyenKhacDuyHung.Properties.Resources.resources
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.csproj.GenerateResource.cache
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.exe
+F:\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.pdb
