@@ -55,3 +55,4 @@ D:\Projects\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-Ngu
 D:\Projects\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.csproj.CoreCompileInputs.cache
 D:\Projects\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.exe
 D:\Projects\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.pdb
+D:\Projects\OOP\Lab6-NguyenKhacDuyHung\Lab6-NguyenKhacDuyHung\obj\Debug\Lab6-NguyenKhacDuyHung.exe.config
